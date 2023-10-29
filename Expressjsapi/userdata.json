@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "rajinikanth",
+    "email": "rajinikanth@jailer.com",
+    "phone": "567-890-123412",
+    "password": "ilovecoding1212"
+  },
+  {
+    "id": 2,
+    "name": "Aditi Sharma",
+    "email": "aditi.sharma@example.com",
+    "phone": "234-567-8901",
+    "password": "securepass"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Singh",
+    "email": "rahul.singh@example.com",
+    "phone": "345-678-9012",
+    "password": "myp@ssword"
+  },
+  {
+    "id": 4,
+    "name": "Neha Patel",
+    "email": "neha.patel@example.com",
+    "phone": "456-789-0123",
+    "password": "pass1234"
+  },
+  {
+    "id": 5,
+    "name": "Priya Verma",
+    "email": "priya.verma@example.com",
+    "phone": "567-890-1234",
+    "password": "ilovecoding"
+  },
+  {
+    "id": 6,
+    "name": "Raj Kapoor",
+    "email": "raj.kapoor@example.com",
+    "phone": "678-901-2345",
+    "password": "brownie"
+  },
+  {
+    "id": 7,
+    "name": "Meera Yadav",
+    "email": "meera.yadav@example.com",
+    "phone": "789-012-3456",
+    "password": "d@niel123"
+  },
+  {
+    "id": 8,
+    "name": "Aarav Reddy",
+    "email": "aarav.reddy@example.com",
+    "phone": "890-123-4567",
+    "password": "red@123"
+  },
+  {
+    "id": 9,
+    "name": "Sanya Malhotra",
+    "email": "sanya.malhotra@example.com",
+    "phone": "901-234-5678",
+    "password": "sanya@456"
+  },
+  {
+    "id": 10,
+    "name": "Amit Sharma",
+    "email": "amit.sharma@example.com",
+    "phone": "012-345-6789",
+    "password": "amitpass"
+  }
+]
